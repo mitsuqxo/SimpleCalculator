@@ -17,6 +17,16 @@ body {
     flex-direction: column;
 }
 
+#display {
+    height: 50px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding: 10px;
+    text-align: right;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
 .buttons {
     display: flex;
     flex-wrap: wrap;
